@@ -10,6 +10,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=650&lines=Cybersecurity+Analyst;Aspiring+Pentester;Threat+Analysis+%7C+Vulnerability+Assessment;Wireshark+%7C+Nessus+%7C+OWASP+ZAP;Linux+%7C+Python+%7C+Networking;Securing+Systems+%26+Analyzing+Threats" />
 </p>
 
+```bash
 > whoami
 
 K Ragesh
