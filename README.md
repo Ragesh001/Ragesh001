@@ -22,13 +22,20 @@ Alongside cybersecurity, I also have an interest in video editing, creating and 
 * **Web:** HTML, CSS, SQL
 * **Systems:** Linux, PuTTY
 
+## 🧠 Skills
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python,linux,html,css,mysql,git&theme=dark" />
 </p>
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/adobepremierepro/999999" width="50"/>
+  <img src="https://cdn.simpleicons.org/capcut/999999" width="50"/>
+  <img src="https://cdn.simpleicons.org/canva/999999" width="50"/>
+</p>
+
+### 🔐 Cybersecurity Tools  
+Wireshark • Nessus • OWASP ZAP • MITRE ATT&CK
 
 ### 🔐 Cybersecurity Tools  
 Wireshark • Nessus • OWASP ZAP • MITRE ATT&CK
