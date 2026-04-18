@@ -1,13 +1,13 @@
 # 👋 Hey there, I'm K Ragesh
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:1f2937&height=200&section=header&text=K%20Ragesh&fontSize=40&fontColor=e5e7eb&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Analyst%20%7C%20Pentester&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ef4444,100:7f1d1d&height=200&section=header&text=K%20Ragesh&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Analyst%20%7C%20Pentester&descAlignY=55&descAlign=50"/>
 </p>
 
 <h1 align="center">👨‍💻 K Ragesh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=E5E7EB&center=true&vCenter=true&width=650&lines=Cybersecurity+Analyst;Aspiring+Pentester;Threat+Analysis+%7C+Vulnerability+Assessment;Wireshark+%7C+Nessus+%7C+OWASP+ZAP;Linux+%7C+Python+%7C+Networking;Securing+Systems+%26+Analyzing+Threats" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=EF4444&center=true&vCenter=true&width=650&lines=Cybersecurity+Analyst;Aspiring+Pentester;Threat+Analysis+%7C+Vulnerability+Assessment;Wireshark+%7C+Nessus+%7C+OWASP+ZAP;Linux+%7C+Python+%7C+Networking;Securing+Systems+%26+Analyzing+Threats" />
 </p>
 
 ---
