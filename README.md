@@ -6,9 +6,10 @@
 ---
 
 ## 🚀 About Me
+I’m a Computer Science student specializing in cybersecurity, with hands-on experience in vulnerability assessment, penetration testing, and automation.  
+I enjoy analyzing security threats and building solutions to improve system security.  
 
-I’m a Computer Science student specializing in cybersecurity, with hands-on experience in vulnerability assessment, penetration testing, and automation.
-I enjoy analyzing security threats and building solutions to improve system security.
+Alongside cybersecurity, I also have an interest in video editing, creating and refining content with a focus on clarity and visual impact.
 
 ---
 
@@ -30,7 +31,7 @@ AI-driven system for threat detection, anomaly analysis, and risk scoring
 
 ---
 
-## 💼 Experience
+## 💼 Internship
 
 **Junior Pentester Intern – Zero Bugs Solution**
 *June 2024 – July 2024*
