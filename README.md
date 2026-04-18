@@ -1,11 +1,24 @@
 # 👋 Hey there, I'm K Ragesh
 
-🎓 B.Tech CSE (Cybersecurity - IBM Integrated)
-🔐 Cybersecurity Enthusiast | Video Editor
+<h1 align="center">Hi 👋, I'm K Ragesh</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Cybersecurity+Analyst;Penetration+Tester;Vulnerability+Assessment;Linux+%7C+Python+%7C+Networking;Securing+Systems+%26+Analyzing+Threats" />
+</p>
+> whoami
+K Ragesh
+
+> role
+Cybersecurity Enthusiast | Video Editor
+
+> education
+B.Tech CSE (Cybersecurity - IBM Integrated)
+HITS , Chennai
 
 ---
 
 ## 🙋‍♂️ About Me
+
 I’m a Computer Science student specializing in cybersecurity, with hands-on experience in vulnerability assessment, penetration testing, and automation.  
 I enjoy analyzing security threats and building solutions to improve system security.  
 
