@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 About Me
+## 🙋‍♂️ About Me
 I’m a Computer Science student specializing in cybersecurity, with hands-on experience in vulnerability assessment, penetration testing, and automation.  
 I enjoy analyzing security threats and building solutions to improve system security.  
 
@@ -13,7 +13,7 @@ Alongside cybersecurity, I also have an interest in video editing, creating and 
 
 ---
 
-## 🛠️ Skills
+## 🤖 Skills
 
 * **Programming:** Python
 * **Cybersecurity Tools:** Wireshark, Nessus, OWASP ZAP
@@ -21,8 +21,6 @@ Alongside cybersecurity, I also have an interest in video editing, creating and 
 * **Networking:** CCNA Concepts and Network Essentials
 * **Web:** HTML, CSS, SQL
 * **Systems:** Linux, PuTTY
-
-## 🧠 Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,linux,html,css,mysql,git&theme=dark" />
