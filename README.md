@@ -28,18 +28,11 @@ Alongside cybersecurity, I also have an interest in video editing, creating and 
   <img src="https://skillicons.dev/icons?i=python,linux,html,css,mysql,git&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/adobepremierepro/999999" width="50"/>
-  <img src="https://cdn.simpleicons.org/capcut/999999" width="50"/>
-  <img src="https://cdn.simpleicons.org/canva/999999" width="50"/>
-</p>
-
 ### 🔐 Cybersecurity Tools  
 Wireshark • Nessus • OWASP ZAP • MITRE ATT&CK
-
-### 🔐 Cybersecurity Tools  
-Wireshark • Nessus • OWASP ZAP • MITRE ATT&CK
-
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00ADEF?style=for-the-badge&logo=tenable&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ## 📂 Projects
 
 🔹 **AI-Based Cybersecurity Risk Assessment Framework**
