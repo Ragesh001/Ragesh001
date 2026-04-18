@@ -44,15 +44,6 @@ AI-driven system for threat detection, anomaly analysis, and risk scoring
 
 ---
 
-## 💼 Internship
-
-**Junior Pentester Intern – Zero Bugs Solution**
-*June 2024 – July 2024*
-
-* Conducted penetration testing on web applications
-* Identified vulnerabilities and suggested fixes
-
----
 
 ## 📜 Certifications
 
