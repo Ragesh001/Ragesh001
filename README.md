@@ -1,4 +1,4 @@
-# 👋 Hi, I'm K Ragesh
+# 👋 Hey there, I'm K Ragesh
 
 🎓 B.Tech CSE (Cybersecurity - IBM Integrated)
 🔐 Cybersecurity Enthusiast | Video Editor
