@@ -30,14 +30,14 @@ Alongside cybersecurity, I also have an interest in video editing, creating and 
 </p>
 
 ### 🔐 Cybersecurity Tools  
-Wireshark
+
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-Nessus
+
 ![Nessus](https://img.shields.io/badge/Nessus-00ADEF?style=for-the-badge&logo=tenable&logoColor=white)
-OWASP ZAP
+
 ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-MITRE ATT&CK
-![MITRE ATT&CK]([https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white](https://img.shields.io/badge/MITRE%20ATT%26CK-FF6F00?style=for-the-badge&logo=databricks&logoColor=white))
+
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-FF6F00?style=for-the-badge)
 
 ## 📂 Projects
 
